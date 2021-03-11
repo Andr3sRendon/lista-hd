@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1",canal 24 horas
+https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="2",canal argentina
+https://inliveserver.com:1936/m3ulive/m3ulive/playlist.m3u8?PlaylistM3UCL
